@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "ID": 1,
+      "Nama": "Rindu Candu Milk Bar",
+      "Kategori": "F&B",
+      "Image": "/images/Rindu.png"
+        
+    },
+    {
+      "ID": 2,
+      "Nama": "Mr.Big",
+      "Kategori": "F&B",
+      "Image": "/images/Big.png"
+    },
+    {
+      "ID": 3,
+      "Nama": "Nasi Balap",
+      "Kategori": "F&B",
+      "Image": "/images/Balap.png"
+    },
+    {
+      "ID": 4,
+      "Nama": "Nyoklat Teen",
+      "Kategori": "F&B",
+      "Image": "/images/Nyoklat.png"
+    },
+    {
+      "ID": 5,
+      "Nama": "Haba Haus",
+      "Kategori": "F&B",
+      "Image": "/images/Haba.png"
+    },
+    {
+      "ID": 6,
+      "Nama": "Hello Sugar",
+      "Kategori": "F&B",
+      "Image": "/images/Hello.png"
+    }
+  ]
+}
